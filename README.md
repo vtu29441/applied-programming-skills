@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29441/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu29441/applied-programming-skills/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/vtu29441/applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29441/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29441/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29441/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29441/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu29441/applied-programming-skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
