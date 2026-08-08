@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu29441/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu29441/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,4 +50,16 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29441/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu29441/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu29441/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu29441/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
