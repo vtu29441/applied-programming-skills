@@ -19,6 +19,7 @@
 | [0075-sort-colors](https://github.com/vtu29441/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu29441/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu29441/applied-programming-skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu29441/applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29441/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vtu29441/applied-programming-skills/tree/master/1920-build-array-from-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu29441/applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
