@@ -81,6 +81,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29441/applied-programming-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29441/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu29441/applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -90,5 +91,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29441/applied-programming-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29441/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
